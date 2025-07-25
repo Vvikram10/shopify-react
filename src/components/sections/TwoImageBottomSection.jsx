@@ -14,7 +14,7 @@ const TwoImageBottomSection = () => {
             className="w-full h-full object-cover"
           >
             <source
-              src="https://cdn.shopify.com/videos/c/o/v/030962dba35c46c9ada45ced82aa0ae8.mp4"
+              src="/videos/SVelegance-23.mp4"
               type="video/mp4"
             />
           </video>
@@ -36,7 +36,7 @@ const TwoImageBottomSection = () => {
             className="w-full h-full object-cover"
           >
             <source
-              src="https://cdn.shopify.com/videos/c/o/v/5735d837edc341d4be6a327ae7c67af6.mp4"
+              src="/videos/SVelegance-243.mp4"
               type="video/mp4"
             />
           </video>

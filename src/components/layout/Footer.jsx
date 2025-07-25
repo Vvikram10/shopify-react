@@ -91,7 +91,7 @@ const Footer = () => {
 
         {/* Newsletter Section */}
         <div className="max-w-xl mx-auto text-center mb-12">
-            <h2 className="text-lg font-serif tracking-wider uppercase mb-4">SIGN UP TO STAY IN THE KNOW</h2>
+            <h2 className="text-lg font-serif tracking-wider italic uppercase mb-4">SIGN UP TO STAY IN THE KNOW</h2>
             <form onSubmit={(e) => e.preventDefault()} className="mt-4">
                 <div className="relative">
                     <input

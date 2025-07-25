@@ -1,8 +1,8 @@
 import React from 'react';
 
 const logos = [
-  "//ekyn6p-av.myshopify.com/cdn/shop/files/Screenshot_2025-02-27_at_12.00.41_PM-removebg-preview.png?v=1745286805",
-  "//ekyn6p-av.myshopify.com/cdn/shop/files/Screenshot_2025-02-27_at_12.03.19_PM-removebg-preview.png?v=1745286805",
+  "/images/Screenshot_2025-02-27_at_12.00.41_PM-removebg-preview.png",
+  "/images/Screenshot_2025-02-27_at_12.03.19_PM-removebg-preview.png",
 ];
 
 const MarqueeSection = () => {

@@ -7,14 +7,14 @@ const BottomBanner = () => {
         {/* Desktop Image - hidden on mobile */}
         <img
           className="w-full h-full object-cover absolute top-0 left-0 z-[-1] hidden md:block"
-          src="//ekyn6p-av.myshopify.com/cdn/shop/files/SV_Elegence58.jpg?v=1745285207"
+          src="/images/SV_Elegence58-(1).jpg"
           alt="Background Image"
         />
         
         {/* Mobile Image - hidden on desktop */}
         <img
           className="w-full h-full object-cover absolute top-0 left-0 z-[-1] block md:hidden"
-          src="//ekyn6p-av.myshopify.com/cdn/shop/files/SV_Elegence58.jpg?v=1745285207"
+          src="/images/SV_Elegence58-(1).jpg"
           alt="Mobile Background Image"
         />
         

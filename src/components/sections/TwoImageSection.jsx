@@ -7,7 +7,7 @@ const TwoImageSection = () => {
         {/* Left Box */}
         <div className="relative w-full md:w-1/2 overflow-hidden">
           <img
-            src="//ekyn6p-av.myshopify.com/cdn/shop/files/SVelegance-17_800x.jpg?v=1745282542"
+            src="/images/SVelegance-17.jpg"
             alt="Mix & Match Left"
             className="w-full h-auto object-cover"
           />
@@ -25,7 +25,7 @@ const TwoImageSection = () => {
         {/* Right Box */}
         <div className="relative w-full md:w-1/2 overflow-hidden">
           <img
-            src="//ekyn6p-av.myshopify.com/cdn/shop/files/SVelegance-59_800x.jpg?v=1745282542"
+            src="/images/SVelegance-59.jpg"
             alt="Mix & Match Right"
             className="w-full h-auto object-cover"
           />
